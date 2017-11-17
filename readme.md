@@ -1,8 +1,15 @@
-# ffbinaries prebuilt
+# Prebuilt static binaries for ffmpeg, ffprobe, ffserver and ffplay
 
-This repo provides binaries for ffmpeg, ffprobe, ffserver and ffplay.
+Used by API at [ffbinaries.com](http://ffbinaries.com) ([git repo](https://github.com/vot/ffbinaries-api)).
 
-It is used by https://github.com/vot/ffbinaries-api (running live on http://ffbinaries.com)
+There's also a [CLI downloader in Node.js available on npm](https://www.npmjs.com/package/ffbinaries) ([git-repo](https://github.com/vot/ffbinaries-node)) to allow easier implementation in build scripts.
 
-There's a NodeJS CLI downloader available: https://www.npmjs.com/package/ffbinaries
-to allow easier implementation in build scripts.
+
+## Available releases
+
+- 3.2
+- 3.3
+
+You can see these [listed on Releases page](https://github.com/vot/ffbinaries-prebuilt/releases) where more information about each release is available.
+
+*Make sure to check which components are included in which release (TL;DR: limited builds of ffplay are available on Linux + ffserver is not available for Windows).(
