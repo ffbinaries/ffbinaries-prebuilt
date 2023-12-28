@@ -17,5 +17,7 @@ There's also a [CLI downloader in Node.js available on npm](https://www.npmjs.co
 [![4.2](https://img.shields.io/github/downloads/vot/ffbinaries-prebuilt/v4.2/total.svg)](https://github.com/vot/ffbinaries-prebuilt/releases/tag/v4.2)
 [![4.2.1](https://img.shields.io/github/downloads/vot/ffbinaries-prebuilt/v4.2.1/total.svg)](https://github.com/vot/ffbinaries-prebuilt/releases/tag/v4.2.1)
 [![4.4.1](https://img.shields.io/github/downloads/vot/ffbinaries-prebuilt/v4.4.1/total.svg)](https://github.com/vot/ffbinaries-prebuilt/releases/tag/v4.4.1)
+[![5.1](https://img.shields.io/github/downloads/vot/ffbinaries-prebuilt/v5.1/total.svg)](https://github.com/vot/ffbinaries-prebuilt/releases/tag/v5.1)
+[![6.1](https://img.shields.io/github/downloads/vot/ffbinaries-prebuilt/v6.1/total.svg)](https://github.com/vot/ffbinaries-prebuilt/releases/tag/v6.1)
 
 *Make sure to check which components are included in which release. Limited builds of ffplay are available for Linux + ffserver is not available at all for Windows.*
